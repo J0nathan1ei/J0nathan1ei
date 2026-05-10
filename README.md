@@ -1,10 +1,10 @@
 # Hi, I'm Jonathan 👋
 
-Exploring AI, systems, and digital transformation through both technical and business perspectives.
+Exploring AI transformation through technical and business perspectives.
 
-Background in enterprise cybersecurity and cloud products, with experience in Agile collaboration, project coordination, and practical problem-solving.
+Background in enterprise cybersecurity & cloud products, with experience in Agile collaboration, project management.
 
-PMP-certified, currently focused on LLMs, automation, and intelligent systems.
+PMP-certified, currently focused on LLMs and intelligent systems.
 
 <!---
 J0nathan1ei/J0nathan1ei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
