@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @J0nathan1ei.
-- 👀 I’m interested in Backend Dev.
-- 🌱 I’m currently learning Golang.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Jonathan 👋
+
+Exploring AI, systems, and digital transformation through both technical and business perspectives.
+
+Background in enterprise cybersecurity and cloud products, with experience in Agile collaboration, project coordination, and practical problem-solving.
+
+PMP-certified, currently focused on LLMs, automation, and intelligent systems.
 
 <!---
 J0nathan1ei/J0nathan1ei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
